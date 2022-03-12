@@ -1,0 +1,7 @@
+echo "# Nft-cryptotrading-website-hosted-on-azure" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Blvckmhikky/Nft-cryptotrading-website-hosted-on-azure.git
+git push -u origin main
